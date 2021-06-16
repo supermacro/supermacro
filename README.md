@@ -1,16 +1,15 @@
 Hey 👋 My name is Giorgio, but most people just call me Gio.
 
-🔭 I’m currently working at a Health Care + Fintech (funded) startup as its founding engineer.
+🔭 I’m currently working at a Health Care + Fintech (funded) startup as its founding engineer. We recently hired our 2nd engineer and we're now looking for a short-term contractor to help us keep moving fast. 
 
-👯 **We're hiring**. Stack:
+👯 Stack:
 
 - GCP
 - MySQL
-- Node
-- TypeScript
-- React
+- Node + TypeScript
+- React + TypeScript
 
-Interested? Message me at hiring@gdelgado.ca with a quick intro about you and a description of the most impressive thing you've ever built / worked on.
+Interested? Message me at hiring@gdelgado.ca.
 
 ----
 
