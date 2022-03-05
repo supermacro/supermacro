@@ -4,7 +4,7 @@ Hey 👋 My name is Giorgio, but most people just call me Gio.
 
 **We're hiring Senior UI and Full Stack Engineers**.
 
-Interested? Message me at hiring@gdelgado.ca.
+[Check out our careers page](https://caribouwealth.notion.site/Careers-at-Caribou-357783b6007f4d15bae8c7b9651cebf5) for info.
 
 ----
 
