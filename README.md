@@ -2,9 +2,11 @@ Hey 👋 My name is Giorgio, but most people just call me Gio.
 
 🔭 Currently: Founding engineer @ [Caribou](https://www.caribouwealth.com/).
 
-**We're hiring Senior UI and Full Stack Engineers**.
+Previously:
 
-[Check out our careers page](https://caribouwealth.notion.site/Careers-at-Caribou-357783b6007f4d15bae8c7b9651cebf5) for info.
+- Founding engineer @ [Setter (Acquired by ThumbTack)](https://techcrunch.com/2020/12/08/thumbtack-acquires-setter/)
+- Alumn @ [Next36](https://directory.nextcanada.com/directory/alumni/?program=next-36&year=2016)
+- Economics Major & Men's Varsity Soccer player
 
 ----
 
