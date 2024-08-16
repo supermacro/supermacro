@@ -1,6 +1,6 @@
 Hey 👋 I'm Gio!
 
-🔭 Currently: stealth mode project 🥷
+🔭 Currently: fbascope.com (self-funded / bootstrapped)
 
 Previously:
 
