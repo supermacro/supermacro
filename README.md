@@ -1,9 +1,7 @@
 Hey 👋 I'm Gio!
 
-🔭 Currently: fbascope.com (self-funded / bootstrapped)
+🔭 Currently: eng @ https://github.com/coplane
 
-Previously:
+🤓 Side hustle: [AMW Scope](https://scope.amwsellers.com/) (self-funded / bootstrapped / > $10,000 in sales)
 
-- Technical co-founder @ [Caribou](https://www.caribouwealth.com/)
-- Founding engineer @ [Setter (Acquired by ThumbTack)](https://techcrunch.com/2020/12/08/thumbtack-acquires-setter/)
-- Alumn @ [Next36](https://directory.nextcanada.com/directory/alumni/?program=next-36&year=2016)
+📍 Toronto, Canada (most of the time)
